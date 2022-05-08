@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "Neitsab2580",
+    "database": "groupomania_d",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "Neitsab2580",
+    "database": "groupomania_t",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "Neitsab2580",
+    "database": "groupomania_p",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
